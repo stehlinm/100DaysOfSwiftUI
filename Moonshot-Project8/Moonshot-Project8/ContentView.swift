@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Moonshot-Project8
-//
-//  Created by marc on 21.09.20.
-//
-
 import SwiftUI
 
 struct ContentView: View {
