@@ -17,6 +17,7 @@
 		49911D58251A81F500022CDC /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49911D57251A81F500022CDC /* Bundle-Decodable.swift */; };
 		49911D5B251A831300022CDC /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49911D5A251A831300022CDC /* Mission.swift */; };
 		49911D5E251A88D600022CDC /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49911D5D251A88D600022CDC /* MissionView.swift */; };
+		49911D61251A8ED100022CDC /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49911D60251A8ED100022CDC /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		49911D57251A81F500022CDC /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		49911D5A251A831300022CDC /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		49911D5D251A88D600022CDC /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		49911D60251A8ED100022CDC /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				4982799125192EB100343445 /* Moonshot_Project8App.swift */,
 				4982799325192EB100343445 /* ContentView.swift */,
 				49911D5D251A88D600022CDC /* MissionView.swift */,
+				49911D60251A8ED100022CDC /* AstronautView.swift */,
 				49911D5A251A831300022CDC /* Mission.swift */,
 				49911D54251A818600022CDC /* Astronaut.swift */,
 				49911D57251A81F500022CDC /* Bundle-Decodable.swift */,
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49911D61251A8ED100022CDC /* AstronautView.swift in Sources */,
 				49911D55251A818600022CDC /* Astronaut.swift in Sources */,
 				4982799425192EB100343445 /* ContentView.swift in Sources */,
 				4982799225192EB100343445 /* Moonshot_Project8App.swift in Sources */,
